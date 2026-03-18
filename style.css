@@ -37,7 +37,7 @@ html, body {
   height: auto;
 
   max-width: min(92vw, 1800px);
-  max-height: min(92vh, 1200px);
+  max-height: min(80vh, 1200px);
 
   object-fit: contain;
 
