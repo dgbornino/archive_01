@@ -19,6 +19,7 @@ html, body {
   align-items: center;
   justify-content: center;
   z-index: 0;
+  padding-bottom: 8vh;
 }
 /* Desktop framed image */
 .bgimg {
