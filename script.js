@@ -1,4 +1,4 @@
-const GAP_PX = 8; // distance between image bottom and text (change this)
+const GAP_PX = 16; // distance between image bottom and text (change this)
 
 function isDesktop() {
   return window.innerWidth >= 769;
